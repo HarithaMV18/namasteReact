@@ -1,0 +1,30 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "react initial project setting",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarithaMV18/namasteReact.git"
+  },
+  "author": "haritha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarithaMV18/namasteReact/issues"
+  },
+  "homepage": "https://github.com/HarithaMV18/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
+  }
+}
